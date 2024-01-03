@@ -1,0 +1,5 @@
+proxies:
+  - {name: "☁️ CFWarp-A",type: wireguard,server: 162.159.195.4,port: 894,ip: 172.16.0.2,private-key: 0H0P2m5vntKaDagHx2yfXIn9aBnFGpTcM1FgdESq3VM=,public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=,remote-dns-resolve: false,udp: true}
+  - {name: "☁️ CFWarp-B",type: wireguard,server: 162.159.192.252,port: 7559,ip: 172.16.0.2,private-key: 0H0P2m5vntKaDagHx2yfXIn9aBnFGpTcM1FgdESq3VM=,public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=,remote-dns-resolve: false,udp: true}
+  - {name: "☁️ CFWarp-C",type: wireguard,server: 162.159.195.172,port: 7559,ip: 172.16.0.2,private-key: 0H0P2m5vntKaDagHx2yfXIn9aBnFGpTcM1FgdESq3VM=,public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=,remote-dns-resolve: false,udp: true}
+  - {name: "☁️ CFWarp-D",type: wireguard,server: 162.159.195.201,port: 7559,ip: 172.16.0.2,private-key: 0H0P2m5vntKaDagHx2yfXIn9aBnFGpTcM1FgdESq3VM=,public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=,remote-dns-resolve: false,udp: true}
